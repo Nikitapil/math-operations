@@ -1,0 +1,13 @@
+.solve-button {
+  background: #4b4bfc;
+  border: none;
+  padding: 3px 5px;
+  width: 100%;
+  margin-top: 15px;
+  color: #efefef;
+  border-radius: 10px;
+  transition: 0.4s;
+  &:hover {
+    background: #3131fd;
+  }
+}
